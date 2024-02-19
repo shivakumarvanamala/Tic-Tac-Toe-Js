@@ -1,0 +1,1 @@
+let hey = 'this is new thing for me to learn. The Javascript is a well known language for a lot of domains like frontend , backend and also in androind ,ios devololepments even...'
